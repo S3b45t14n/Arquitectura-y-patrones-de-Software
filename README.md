@@ -13,7 +13,7 @@
     </div>
     <div class="cuerpo">
         <div class="contenido">
-		<img src="https://www.example.com/images/dinosaur.jpg">
+		<img src="https://images.alphacoders.com/475/475526.jpg">
             <h1>3 Consejos para hacer páginas web bien</h1>
             <h2>1. No te limites a herramientas visuales</h2>
             <p>Existen <a target="_blank" href="http://www.quackit.com/html/online-html-editor/">muchas herramientas</a>, incluso gratuitas, que te permiten crear páginas web sin saber realmente HTML.</p>
