@@ -10,7 +10,7 @@
 <body>
     <div class="cuerpo">
         <div class="contenido">
-		<blockquote class="imgur-embed-pub" lang="en" data-id="a/MYi4R"><a href="//imgur.com/a/MYi4R">D.Va Programming A Rabbit</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+		<img src="https://wall.alphacoders.com/big.php?i=116875&lang=Spanish">
 		<img src="https://images.alphacoders.com/475/475526.jpg">
             <h1>Clase arquitectura y patrones de software</h1>
             <h2>1. Práctica calculadora</h2>
