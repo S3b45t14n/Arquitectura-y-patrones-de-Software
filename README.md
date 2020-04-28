@@ -4,13 +4,10 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Ejemplo de una página web de nivel medio-basico</title>
+    En esta clase se subirán las prácticas realizadas en JAVA
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div class="cabecera">
-        <a href="/"><img src="https://www.hostingatope.com/wp-content/themes/genesis-hat/images/logo.png"/></a>
-    </div>
     <div class="cuerpo">
         <div class="contenido">
 		<img src="https://images.alphacoders.com/475/475526.jpg">
