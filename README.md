@@ -14,20 +14,11 @@
     <div class="cuerpo">
         <div class="contenido">
 		<img src="https://images.alphacoders.com/475/475526.jpg">
-            <h1>3 Consejos para hacer páginas web bien</h1>
-            <h2>1. No te limites a herramientas visuales</h2>
-            <p>Existen <a target="_blank" href="http://www.quackit.com/html/online-html-editor/">muchas herramientas</a>, incluso gratuitas, que te permiten crear páginas web sin saber realmente HTML.</p>
-            <p>...</p>
-            <h2>2. Piensa una buena estructura común</h2>
-            <p>Antes de crear una página web, procura pensar una estructura lógica común compuesta por etiquetas de divisiones.</p>
-            <p>...</p>
-        </div>
-        <div class="barra-lateral">
-            <a target="_blank" href="/go/webempresa"><img src="https://www.hostingatope.com/wp-content/uploads/2016/05/banner-hosting-webempresa.png"></a>
-        </div>
-    </div>
+            <h1>Clase arquitectura y patrones de software</h1>
+            <h2>1. Práctica calculadora</h2>
+	    <h2>2. Principios SOLID</h2>
     <div class="pie">
-	<p>© Copyright Hosting a Tope 2017</p>
+	<p>© Sebastian 2020</p>
     </div>
 </body>
 </html>
