@@ -1,5 +1,6 @@
 # Arquitectura-y-patrones-de-Software
 <abbr title="Hyper Text Markup Language"></abbr> Juan Sebastian Jaramillo Silva <abbr title="World Wide Web Consortium"></abbr>.
+<abbr title="Hyper Text Markup Language"></abbr> Ingeniería de Sistemas <abbr title="World Wide Web Consortium"></abbr>.
 <!DOCTYPE html>
 <html>
 <head lang="en">
