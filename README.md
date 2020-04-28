@@ -10,7 +10,7 @@
 <body>
     <div class="cuerpo">
         <div class="contenido">
-		<img src="https://images.alphacoders.com/475/475526.jpg">
+		<img src="https://s.imgur.com/min/embed.js">
             <h1>Clase arquitectura y patrones de software</h1>
             <h2>1. Práctica calculadora</h2>
 	    <h2>2. Principios SOLID</h2>
