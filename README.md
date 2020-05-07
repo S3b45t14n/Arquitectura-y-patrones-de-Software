@@ -19,12 +19,12 @@
     <div class="pie">
 	<p>© Sebastian 2020</p>
     </div>
-		* Daniela Arenas Monroy
-* Universidad San Buenaventura
+		
 
-## ARQUITECURA Y PATRONES DE SOFTWARE
+## Contenido del curso
 
-En esta clase desarrollamos  proyectos, donde se aplican diferentes patrones y principios SOLID.
+
+En este curso se desarrolla proyecto tienda de juegos donde se aplican principios solid y patrones creacionales GoF
 
 |        CARPETA  | CONTENIDO |
 |----------------|-------------------------------|
