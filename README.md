@@ -22,12 +22,12 @@
 
 En este curso se desarrolla proyecto tienda de juegos donde se aplican principios solid y patrones creacionales GoF
 
-|        CARPETA  | CONTENIDO |
+|        CARPETAS  | TEMAS |
 |----------------|-------------------------------|
-|CORTE 1 | Tarea 1 | 
-| CORTE 2 | Tarea 1 | 
-| CORTE 3 | Principios SOLID, Patrones Creacionales, Calculadora |
-| PROYECTO| .java |
+|CORTE 1 | Taller Andes, Taller ciclo TDD, Taller modelado de arquitectura | 
+| CORTE 2 | Principios Solid, Proyecto (Análisis, diseño y mockups), Taller arquitectura y patrones de software | 
+| CORTE 3 | Patrones creacionales GoF |
+| PROYECTO| Portal Games |
 
 ## Principios SOLID
 ## Principio 1.
