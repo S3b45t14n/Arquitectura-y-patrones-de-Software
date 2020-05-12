@@ -14,10 +14,6 @@
 		<img src="https://images.alphacoders.com/475/475526.jpg">
             <h1>Clase arquitectura y patrones de software</h1>
 				<img src="https://images3.alphacoders.com/116/116875.jpg">
-            <h2>1. Práctica calculadora</h2>
-	    <h2>2. Principios SOLID</h2>
-    <div class="pie">
-	<p>© Sebastian 2020</p>
     </div>
 		
 
