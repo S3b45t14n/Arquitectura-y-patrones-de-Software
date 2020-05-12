@@ -33,14 +33,6 @@ En este curso se desarrolla proyecto tienda de juegos donde se aplican principio
 | CORTE 3 | Principios SOLID, Patrones Creacionales, Calculadora |
 | PROYECTO| .java |
 
-## Corte 1.
-* Tarea 1. 
-
-## CORTE 2
-* Tarea 1.
-
-## CORTE 3
-
 ## Principios SOLID
 ## Principio 1.
 S: Principio de responsabilidad única (Single responsibility principle)
@@ -57,8 +49,6 @@ I: Principio de segregación de la interfaz  (Interface segregation principle)
 ## Principio 5.
 D: Principio de inversión de la dependencia (Dependency inversion principle) 
 
-![](https://tech.tribalyte.eu/wp-content/uploads/2018/02/Solid-1.png)
-
 ## Patrones Creacionales
 * Abstract factory: el problema que intenta solucionar es: la creación de diferentes familias de objetos relacionados o que dependen entre si, sin especificar sus clases concretas. Permite trabajar con objetos de distintas familias de manera que las familias no se mezclen entre si y haciendo transparente el tipo de familia concreta que se esta usando.
 
@@ -70,10 +60,6 @@ Este es un patrón que se ocupa en la creación de objetos, sin especificar la c
 * Prototype : El objetivo es ahorrar recursos con la creación de objetos, la manera mas eficiente de tener los objetos sin crearlos de nuevo es clonándolos.
 
 * Singleton :Este es un patrón que garantiza que una clase solo tenga una única instancia, y provee un punto de acceso global a esta, haciendo así que todos los objetos utilicen una instancia de la clase, utilicen la misma instancia.
-
-## Calculadora
-Se desarrollo una calculadora con funciones basicas (suma, resta, multiplicación y división).
-
 
 ## Proyecto del Semestre.
 
